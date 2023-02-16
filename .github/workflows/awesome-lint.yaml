@@ -1,0 +1,29 @@
+# source: https://github.com/sindresorhus/awesome-lint
+
+name: Awesome Lint
+
+on:
+
+  push:
+    branches: [main]
+  
+  pull_request:
+
+jobs:
+
+  Awesome_Lint:
+
+    name: Awesome Lint
+
+    permissions:
+      contents: read # clone the repo to lint
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - run: npx awesome-lint
