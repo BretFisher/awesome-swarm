@@ -85,6 +85,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 - [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips
+- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom)
 
 ## Community Tutorials and Education 👩‍🏫
 
