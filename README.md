@@ -1,8 +1,11 @@
+# Awesome Swarm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <img src="images/awesome-swarm.png" align="right" width="250" />
 
-# Awesome Swarm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml) [![Super-Linter](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml)
+[![Awesome Lint](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml)
+[![Super-Linter](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml)
 
-> An awesome list of tools and info on Docker and Mirantis Swarm Mode (SwarmKit)
+> An awesome list of tools and info on Swarm Mode (SwarmKit), maintained by Docker and Mirantis
 
 - [Recent News and Updates (last 12 months)](#recent-news-and-updates-last-12-months)
 - [Official Main Resources](#official-main-resources)
@@ -44,21 +47,21 @@
 ### Cluster Management
 
 - [Portainer](https://www.portainer.io/) - A management UI which allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
-- [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI
+- [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
 
 ### Extra Functionality
 
-- [](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm
+- [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) - By @crazy-max. Create jobs on a time-based schedule.
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
-- [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm
+- [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
 
 ### Volumes and Storage
 
 Swarm previously only supported local volumes, NFS, and a limited set of Docker Engine Plugin drivers that supported Swarm Mode. Driver support has dwindled over time as vendors moved to Kubernetes. In 2023, with Docker Engine v23.x release, Docker Engine and Swarm Mode gained the Container Storage Interface (CSI) standard. Existing CSI drivers will need to add Swarm support.
 
-- [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) - A GitHub repo tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
+- [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) - A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
 - [GlusterFS](https://www.gluster.org/) - GlusterFS is a scale-out network-attached storage file system. It has found applications including cloud infrastructure, streaming media services, and content delivery networks.
 - [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform designed to provide excellent performance, reliability, and scalability.
 - [PortWorx](https://portworx.com/) - Portworx is a container-native storage solution that provides persistent storage for containers and applications.
@@ -74,8 +77,8 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 ### Courses and Videos
 
-- [Docker Mastery, with Kubernetes and Swarm](https://bret.show/dockermastery) - via Bret Fisher, The most popular paid mega-course on Docker, Kubernetes, and Swarm. Link includes coupon.
-- [Docker Swam Mastery](https://bret.show/swarmmastery) - via Bret Fisher, the most popular paid course focusing on Docker Swarm (assumes you have basic Docker/Compose knowledge). Link includes coupon.
+- [Docker Mastery, with Kubernetes and Swarm](https://bret.show/dockermastery) - Via Docker Captain Bret Fisher. The most popular paid mega-course on Docker, Kubernetes, and Swarm. Link includes coupon.
+- [Docker Swam Mastery](https://bret.show/swarmmastery) - Via Docker Captain Bret Fisher. The most popular paid course focusing on Docker Swarm (assumes you have basic Docker/Compose knowledge). Link includes coupon.
 
 ### Articles and Sample Code
 
