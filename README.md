@@ -63,6 +63,7 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks
+- [nothelm.py](https://github.com/neuroforgede/nothelm.py) - nothelm.py - opinionated docker stack project tool with templating support 
 
 ### Volumes and Storage
 
