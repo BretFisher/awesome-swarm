@@ -6,9 +6,9 @@
 
 Swarm (Swarm Mode, SwarmKit) is the simple orchestration and scheduling system built into Moby, Docker Engine, and Mirantis Container Engine (MCE). It is a distributed system that allows you to create and manage a cluster of container runtimes (nodes) and the container workloads running on them.
 
-This Awesome List is maintained by [Bret Fisher](https://www.bretfisher.com) (and coming soon, maintainers #3). This is a curated list of *working* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best tools and resources for Swarm in 2023 and beyond.
+This Awesome List is maintained by [Bret Fisher](https://www.bretfisher.com) (and coming soon, maintainers [#3](https://github.com/BretFisher/awesome-swarm/issues/3)). This is a curated list of *working* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best tools and resources for Swarm in 2023 and beyond.
 
-Want to contribute? Please read the (Coming soon #2) [contribution guidelines](CONTRIBUTING.md), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFisher/awesome-swarm/issues/2)) [contribution guidelines](CONTRIBUTING.md), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
 
 - [Recent News and Updates (last 12 months) 🚨](#recent-news-and-updates-last-12-months-)
 - [Official Main Resources 🏭](#official-main-resources-)
@@ -104,7 +104,7 @@ Honorable mentions of tools and information that is no longer maintained or supp
 
 This list thrives on contributions from the community, and being *up to date*. The Maintainers can't do it alone. We need Swarm fans to help us find the best Swarm resources.
 
-Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) (Coming soon #2), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) (Coming soon [#2](https://github.com/BretFisher/awesome-swarm/issues/2)), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
 
 ## Maintainers 🦸‍♀️🧑‍🚒🧑‍🎤
 
