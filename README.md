@@ -53,6 +53,7 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
 - [Portainer](https://www.portainer.io/) - A management UI which allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
 - [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
+- [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
 
 ### Extra Functionality
 
