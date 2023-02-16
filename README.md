@@ -5,29 +5,36 @@
 [![Awesome Lint](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml)
 [![Super-Linter](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml)
 
-> An awesome list of tools and info on Swarm Mode (SwarmKit), maintained by Docker and Mirantis
+> An awesome list of tools and info on Swarm Mode (SwarmKit)
 
-- [Recent News and Updates (last 12 months)](#recent-news-and-updates-last-12-months)
-- [Official Main Resources](#official-main-resources)
-- [Chat and Forums](#chat-and-forums)
-- [Community Tools](#community-tools)
+Swarm (Swarm Mode, SwarmKit) is the simple orchestration and scheduling system built into Moby, Docker Engine, and Mirantis Container Engine (MCE). It is a distributed system that allows you to create and manage a cluster of container runtimes (nodes) and the container workloads running on them. 
+
+This Awesome List is maintained by [Bret Fisher](https://www.bretfisher.com) (and coming soon, maintainers #3). This is a curated list of *working* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best tools and resources for Swarm in 2023 and beyond.
+
+Want to contribute? Please read the (Coming soon #2) [contribution guidelines](CONTRIBUTING.md), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+
+- [Recent News and Updates (last 12 months) 🚨](#recent-news-and-updates-last-12-months-)
+- [Official Main Resources 🏭](#official-main-resources-)
+- [Chat and Forums 💬](#chat-and-forums-)
+- [Community Tools 👩‍🚀](#community-tools-)
   - [Cluster Management](#cluster-management)
   - [Extra Functionality](#extra-functionality)
   - [Volumes and Storage](#volumes-and-storage)
   - [Networking](#networking)
-- [Community Tutorials and Education](#community-tutorials-and-education)
+- [Community Tutorials and Education 👩‍🏫](#community-tutorials-and-education-)
   - [Courses and Videos](#courses-and-videos)
   - [Articles and Sample Code](#articles-and-sample-code)
-- [Contributing](#contributing)
-- [Maintainers](#maintainers)
+- [RIP ☠️](#rip-️)
+- [Contributing 🙋‍♀️](#contributing-️)
+- [Maintainers 🦸‍♀️🧑‍🚒🧑‍🎤](#maintainers-️)
 
-## Recent News and Updates (last 12 months)
+## Recent News and Updates (last 12 months) 🚨
 
 - [Mirantis - What's next for Swarm](https://www.mirantis.com/blog/what-s-next-for-swarm/)
 - [Mirantis - Kubernetes vs Swarm - These companies use both](https://www.mirantis.com/blog/kubernetes-vs-swarm-these-companies-use-both)
 - [Mirantis - Committed to Swarm](https://www.mirantis.com/blog/mirantis-is-committed-to-swarm/)
 
-## Official Main Resources
+## Official Main Resources 🏭
 
 - [Docker Swarm Docs](https://docs.docker.com/engine/swarm/)
 - [Mirantis Swarm Homepage](https://www.mirantis.com/software/swarm/)
@@ -36,13 +43,13 @@
 - [SwarmKit Repository](https://github.com/moby/swarmkit) - The upstream project that provides Swarm features to a container runtime.
 - [Swarm Stack File reference](https://docs.docker.com/compose/compose-file/compose-file-v3/) - Compose file v3 format that works in Swarm for "stack files".
 
-## Chat and Forums
+## Chat and Forums 💬
 
 - [Discord - Cloud Native DevOps](https://devops.fan) - Maintained by [Bret Fisher](https://www.bretfisher.com) and friends. Join the very active `#swarm` channel.
 - [SwarmKit.org Forum](https://swarmkit.org/forum/) - Maintained by [Portainer's](https://www.portainer.io/) co-founder Neil Cresswell.
 - [Stack Overflow Swarm tag](https://stackoverflow.com/questions/tagged/docker-swarm)
 
-## Community Tools
+## Community Tools 👩‍🚀
 
 ### Cluster Management
 
@@ -64,7 +71,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) - A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
 - [GlusterFS](https://www.gluster.org/) - GlusterFS is a scale-out network-attached storage file system. It has found applications including cloud infrastructure, streaming media services, and content delivery networks.
 - [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform designed to provide excellent performance, reliability, and scalability.
-- [PortWorx](https://portworx.com/) - Portworx is a container-native storage solution that provides persistent storage for containers and applications.
+- [Portworx](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/) - Portworx is a sophisticated, production-quality container-native storage solution. It supports Swarm installs. Free for up to three nodes.
 - [NetApp Trident](https://github.com/NetApp/trident) - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804).
 
 ### Networking
@@ -73,7 +80,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Libnetwork Troubleshooting](https://github.com/moby/libnetwork/blob/master/cmd/diagnostic/README.md) - Official Doc on using network diagnostic tools.
 - [Traefik Proxy](https://github.com/traefik/traefik) - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
 
-## Community Tutorials and Education
+## Community Tutorials and Education 👩‍🏫
 
 ### Courses and Videos
 
@@ -82,16 +89,26 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 ### Articles and Sample Code
 
-- [Docker Swarm Rocks](https://dockerswarm.rocks/) - Collection of tutorials and code samples.
+- [Docker Swarm Rocks](https://dockerswarm.rocks/) - Collection of tutorials and code samples. Respository behind the site [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks).
 - [Vault + Swarm](https://blog.sunekeller.dk/2019/04/vault-swarm-plugin-poc/) - Vault + Swarm Docker secrets plugin (proof of concept).
 - [dogvs.cat Sample Swarm Stacks](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools including Traefik.
 - [Swarm vs. Compose for Production](https://github.com/BretFisher/ama/discussions/146) - Only one host for production environment. What to use: docker-compose or single node swarm?
 - [Cheat Sheet on Docker and Swarm 2022](https://cheatography.com/boulard/cheat-sheets/docker-and-swarm-2022/)
+- [Podlike](https://github.com/rycus86/podlike) - Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.
 
-## Contributing
+## RIP ☠️
 
-TODO
+Honorable mentions of tools and information that is no longer maintained or supported. It may still work, but it's not being updated.
 
-## Maintainers
+- [RexRay](https://github.com/rexray/rexray) - A container storage orchestration engine.
+- [Swarmprom](https://github.com/stefanprodan/swarmprom) - A great Prometheus/Grafana stack for Swarm by @stefanprodan.
 
-TODO
+## Contributing 🙋‍♀️
+
+This list thrives on contributions from the community, and being *up to date*. The Maintainers can't do it alone. We need Swarm fans to help us find the best Swarm resources.
+
+Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) (Coming soon #2), ask questions in this repositories [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+
+## Maintainers 🦸‍♀️🧑‍🚒🧑‍🎤
+
+Lead by Bret Fisher, I'm looking for more maintainers. LMK in Discussions, Twitter, or Discord (above) if you'd like to get involved in making a better community for Swarm.
