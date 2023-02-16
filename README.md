@@ -18,6 +18,7 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
   - [Extra Functionality](#extra-functionality)
   - [Volumes and Storage](#volumes-and-storage)
   - [Networking](#networking)
+  - [Monitoring](#monitoring)
 - [Community Tutorials and Education 👩‍🏫](#community-tutorials-and-education-)
   - [Courses and Videos](#courses-and-videos)
   - [Articles and Sample Code](#articles-and-sample-code)
@@ -53,6 +54,7 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
 - [Portainer](https://www.portainer.io/) - A management UI which allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
 - [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
+- [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
 
 ### Extra Functionality
 
@@ -60,6 +62,9 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
+- [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
+- [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
+- [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
 
 ### Volumes and Storage
 
@@ -76,6 +81,13 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Swarm Ports](https://www.bretfisher.com/docker-swarm-firewall-ports/) - List and description of all the ports used by Swarm Mode (and the very old classic Swarm, if you're into that).
 - [Libnetwork Troubleshooting](https://github.com/moby/libnetwork/blob/master/cmd/diagnostic/README.md) - Official Doc on using network diagnostic tools.
 - [Traefik Proxy](https://github.com/traefik/traefik) - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
+- [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy based reverse proxy with automatic service discovery based on labels.
+
+### Monitoring
+
+- [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events.
+- [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips.
+- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
 
 ## Community Tutorials and Education 👩‍🏫
 
@@ -99,7 +111,6 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 Honorable mentions of tools and information that is no longer maintained or supported. It may still work, but it's not being updated.
 
 - [RexRay](https://github.com/rexray/rexray) - A container storage orchestration engine.
-- [Swarmprom](https://github.com/stefanprodan/swarmprom) - A great Prometheus/Grafana stack for Swarm by @stefanprodan.
 
 ## Contributing 🙋‍♀️
 
