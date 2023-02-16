@@ -18,6 +18,7 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
   - [Extra Functionality](#extra-functionality)
   - [Volumes and Storage](#volumes-and-storage)
   - [Networking](#networking)
+  - [Monitoring](#monitoring)
 - [Community Tutorials and Education 👩‍🏫](#community-tutorials-and-education-)
   - [Courses and Videos](#courses-and-videos)
   - [Articles and Sample Code](#articles-and-sample-code)
@@ -78,6 +79,11 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Swarm Ports](https://www.bretfisher.com/docker-swarm-firewall-ports/) - List and description of all the ports used by Swarm Mode (and the very old classic Swarm, if you're into that).
 - [Libnetwork Troubleshooting](https://github.com/moby/libnetwork/blob/master/cmd/diagnostic/README.md) - Official Doc on using network diagnostic tools.
 - [Traefik Proxy](https://github.com/traefik/traefik) - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
+
+### Monitoring
+
+- [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events
+- [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips
 
 ## Community Tutorials and Education 👩‍🏫
 
