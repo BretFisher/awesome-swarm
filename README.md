@@ -94,7 +94,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 ### Courses and Videos
 
 - [Docker Mastery, with Kubernetes and Swarm](https://bret.show/dockermastery) - Via Docker Captain Bret Fisher. The most popular paid mega-course on Docker, Kubernetes, and Swarm. Link includes coupon.
-- [Docker Swam Mastery](https://bret.show/swarmmastery) - Via Docker Captain Bret Fisher. The most popular paid course focusing on Docker Swarm (assumes you have basic Docker/Compose knowledge). Link includes coupon.
+- [Docker Swarm Mastery](https://bret.show/swarmmastery) - Via Docker Captain Bret Fisher. The most popular paid course focusing on Docker Swarm (assumes you have basic Docker/Compose knowledge). Link includes coupon.
 - [Docker Swarm Design and Production Tools from Bret Fisher at DockerCon](https://www.youtube.com/watch?v=V9fxU5zJKb4) - YouTube. DockerCon 2018. 40 minutes.
 
 ### Articles and Sample Code
