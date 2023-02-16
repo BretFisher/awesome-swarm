@@ -62,9 +62,9 @@ Want to contribute? Please read the (Coming soon [#2](https://github.com/BretFis
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
-- [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks
-- [nothelm.py](https://github.com/neuroforgede/nothelm.py) - nothelm.py - opinionated docker stack project tool with templating support 
-- [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - tool to wait for your docker stack deployments to finish
+- [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
+- [nothelm.py](https://github.com/neuroforgede/nothelm.py) - nothelm.py - opinionated docker stack project tool with templating support.
+- [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - tool to wait for your docker stack deployments to finish.
 
 ### Volumes and Storage
 
@@ -87,7 +87,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 - [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips
-- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom)
+- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
 
 ## Community Tutorials and Education 👩‍🏫
 
@@ -110,7 +110,6 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 Honorable mentions of tools and information that is no longer maintained or supported. It may still work, but it's not being updated.
 
 - [RexRay](https://github.com/rexray/rexray) - A container storage orchestration engine.
-- [Swarmprom](https://github.com/stefanprodan/swarmprom) - A great Prometheus/Grafana stack for Swarm by @stefanprodan.
 
 ## Contributing 🙋‍♀️
 
