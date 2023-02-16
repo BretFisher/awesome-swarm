@@ -2,12 +2,9 @@
 
 <img src="images/awesome-swarm.png" align="right" width="250" />
 
-[![Awesome Lint](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/awesome-lint.yaml)
-[![Super-Linter](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/BretFisher/awesome-swarm/actions/workflows/call-super-linter.yaml)
-
 > An awesome list of tools and info on Swarm Mode (SwarmKit)
 
-Swarm (Swarm Mode, SwarmKit) is the simple orchestration and scheduling system built into Moby, Docker Engine, and Mirantis Container Engine (MCE). It is a distributed system that allows you to create and manage a cluster of container runtimes (nodes) and the container workloads running on them. 
+Swarm (Swarm Mode, SwarmKit) is the simple orchestration and scheduling system built into Moby, Docker Engine, and Mirantis Container Engine (MCE). It is a distributed system that allows you to create and manage a cluster of container runtimes (nodes) and the container workloads running on them.
 
 This Awesome List is maintained by [Bret Fisher](https://www.bretfisher.com) (and coming soon, maintainers #3). This is a curated list of *working* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best tools and resources for Swarm in 2023 and beyond.
 
