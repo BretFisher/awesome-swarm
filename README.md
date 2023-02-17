@@ -75,7 +75,8 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform designed to provide excellent performance, reliability, and scalability.
 - [Portworx](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/) - Portworx is a sophisticated, production-quality container-native storage solution. It supports Swarm installs. Free for up to three nodes.
 - [NetApp Trident](https://github.com/NetApp/trident) - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804).
-- [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner/issues) - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by @costela. Docker Swarm CSI support is currently being [added](https://github.com/hetznercloud/csi-driver/pull/376) into the official [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver).
+- [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner/issues) - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by @costela.
+- [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.
 
 ### Networking
 
