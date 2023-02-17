@@ -89,7 +89,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events.
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips.
 - [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
-
+- [funk](https://github.com/fasibio/funk-server/) Fast logging shipper for docker swarm (use elasticsearch and kibana)
 ## Community Tutorials and Education 👩‍🏫
 
 ### Courses and Videos
