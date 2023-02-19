@@ -20,6 +20,7 @@ This Awesome List is maintained by @BretFisher and @s4ke. This is a curated list
   - [Volumes and Storage](#volumes-and-storage)
   - [Networking](#networking)
   - [Monitoring](#monitoring)
+- [Organisations Using Swarm](#organisations-using-swarm)
 - [Community Tutorials and Education](#community-tutorials-and-education)
   - [Courses and Videos](#courses-and-videos)
   - [Articles and Sample Code](#articles-and-sample-code)
@@ -91,6 +92,10 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events.
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips.
 - [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
+
+### Organisations Using Swarm
+
+- [Co-op Cloud](https://coopcloud.tech)
 
 ## Community Tutorials and Education
 
