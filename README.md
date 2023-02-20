@@ -20,10 +20,10 @@ This Awesome List is maintained by @BretFisher and @s4ke. This is a curated list
   - [Volumes and Storage](#volumes-and-storage)
   - [Networking](#networking)
   - [Monitoring](#monitoring)
-- [Organisations Using Swarm](#organisations-using-swarm)
 - [Community Tutorials and Education](#community-tutorials-and-education)
   - [Courses and Videos](#courses-and-videos)
   - [Articles and Sample Code](#articles-and-sample-code)
+- [Organisations Using Swarm](#organisations-using-swarm)
 - [RIP](#rip)
 - [Contributing](#contributing)
 - [Maintainers](#maintainers)
@@ -93,10 +93,6 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips.
 - [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
 
-### Organisations Using Swarm
-
-- [Co-op Cloud](https://coopcloud.tech)
-
 ## Community Tutorials and Education
 
 ### Courses and Videos
@@ -113,6 +109,10 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Swarm vs. Compose for Production](https://github.com/BretFisher/ama/discussions/146) - Only one host for a production environment. What to use: docker-compose or single node swarm?
 - [Cheat Sheet on Docker and Swarm 2022](https://cheatography.com/boulard/cheat-sheets/docker-and-swarm-2022/)
 - [Podlike](https://github.com/rycus86/podlike) - Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.
+
+## Organisations Using Swarm
+
+- [Co-op Cloud](https://coopcloud.tech)
 
 ## RIP
 
