@@ -7,7 +7,7 @@
 
 Swarm (Swarm Mode, SwarmKit) is the simple orchestration and scheduling system built into Moby, Docker Engine, and Mirantis Container Engine (MCE). It is a distributed system that allows you to create and manage a cluster of container runtimes (nodes) and the container workloads running on them.
 
-This Awesome List is maintained by @BretFisher and @s4ke. This is a curated list of *working* and *awesome* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best stuff for Swarm in 2023 and beyond.
+This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) and [@s4ke](https://github.com/s4ke). This is a curated list of *working* and *awesome* tools and resources for using Swarm. It is not an official list, but a community effort to help people find the best stuff for Swarm in 2023 and beyond.
 
 ## Contents<!-- omit from toc -->
 
@@ -33,6 +33,7 @@ This Awesome List is maintained by @BretFisher and @s4ke. This is a curated list
 - [Mirantis - What's next for Swarm](https://www.mirantis.com/blog/what-s-next-for-swarm/)
 - [Mirantis - Kubernetes vs Swarm - These companies use both](https://www.mirantis.com/blog/kubernetes-vs-swarm-these-companies-use-both)
 - [Mirantis - Committed to Swarm](https://www.mirantis.com/blog/mirantis-is-committed-to-swarm/)
+- [Mirantis - Announcing the 23.0 major release for Mirantis Container Runtime — and Moby](https://www.mirantis.com/blog/announcing-the-23-0-major-release-for-mirantis-container-runtimeand-moby)
 
 ## Official Main Resources
 
@@ -60,7 +61,7 @@ This Awesome List is maintained by @BretFisher and @s4ke. This is a curated list
 
 ### Extra Functionality
 
-- [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) - By @crazy-max. Create jobs on a time-based schedule.
+- [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) - By [@crazy-max](https://github.com/crazy-max). Create jobs on a time-based schedule.
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
@@ -77,7 +78,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform.
 - [Portworx](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/) - Portworx is a container-native storage solution. It [supports Swarm installs](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/). Free for up to three nodes.
 - [NetApp Trident](https://github.com/NetApp/trident) - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804).
-- [Hetzner Cloud Docker Volume Plugin](https://github.com/costela/docker-volume-hetzner) - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by @costela.
+- [Hetzner Cloud Docker Volume Plugin](https://github.com/costela/docker-volume-hetzner) - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by [@costela](https://github.com/costela).
 - [Hetzner Cloud Volume CSI Driver](https://github.com/hetznercloud/csi-driver) - Hetzner Cloud Volume CSI Driver with experimental support for Docker Swarm.
 
 ### Networking
@@ -91,7 +92,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 - [docker-engine-events-exporter](https://github.com/neuroforgede/docker-engine-events-exporter) - Prometheus Exporter for Docker Engine Events.
 - [docker-engine-networks-exporter](https://github.com/neuroforgede/docker-engine-networks-exporter) - Prometheus Exporter for additional network metrics such as usable ips.
-- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by @stefanprodan, now maintained by @neuroforgede.
+- [promswarm](https://github.com/neuroforgede/promswarm) - Modernized version of [Swarmprom](https://github.com/stefanprodan/swarmprom), a great Prometheus/Grafana stack originally by [@stefanprodan](https://github.com/stefanprodan), now maintained by [@neuroforgede](https://github.com/neuroforgede).
 
 ## Community Tutorials and Education
 
@@ -124,7 +125,7 @@ Honorable mentions of tools and information that are no longer maintained or sup
 
 This list thrives on contributions from the community. The Maintainers can't do it alone. We need Swarm fans to help us find the best Swarm resources.
 
-Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) (Coming soon [#2](https://github.com/BretFisher/awesome-swarm/issues/2)). You can also ask questions in the [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+Want to contribute? Please read the [contribution guidelines](contributing.md). You can also ask questions in the [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
 
 ## Maintainers
 
