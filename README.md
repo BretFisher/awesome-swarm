@@ -33,6 +33,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Mirantis - What's next for Swarm](https://www.mirantis.com/blog/what-s-next-for-swarm/)
 - [Mirantis - Kubernetes vs Swarm - These companies use both](https://www.mirantis.com/blog/kubernetes-vs-swarm-these-companies-use-both)
 - [Mirantis - Committed to Swarm](https://www.mirantis.com/blog/mirantis-is-committed-to-swarm/)
+- [Mirantis - Announcing the 23.0 major release for Mirantis Container Runtime — and Moby](https://www.mirantis.com/blog/announcing-the-23-0-major-release-for-mirantis-container-runtimeand-moby)
 
 ## Official Main Resources
 
