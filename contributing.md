@@ -8,7 +8,7 @@ If you have something awesome to contribute to an awesome list, this is how you 
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome-swarm list's GitHub page. For example: https://github.com/s4ke/awesome-swarm
+1. Access the awesome-swarm list's [GitHub page](https://github.com/BretFisher/awesome-swarm)
 
 2. Click on the `README.md` file: ![Step 2 Click on Readme.md](https://user-images.githubusercontent.com/719760/220774348-1953caa5-05f2-4649-ab3a-b67456a33431.png)
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://user-images.githubusercontent.com/719760/220774475-d1a58b03-167f-47ed-9e25-f0e8a03aaf15.png)
