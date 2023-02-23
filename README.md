@@ -124,7 +124,7 @@ Honorable mentions of tools and information that are no longer maintained or sup
 
 This list thrives on contributions from the community. The Maintainers can't do it alone. We need Swarm fans to help us find the best Swarm resources.
 
-Want to contribute? Please read the [contribution guidelines](CONTRIBUTING.md) (Coming soon [#2](https://github.com/BretFisher/awesome-swarm/issues/2)). You can also ask questions in the [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
+Want to contribute? Please read the [contribution guidelines](contributing.md). You can also ask questions in the [GitHub Discussions](https://github.com/BretFisher/awesome-swarm/discussions), or our [Discord Server #swarm channel](https://discord.gg/4jPPynEb2e).
 
 ## Maintainers
 
