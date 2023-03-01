@@ -114,6 +114,14 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 ## Organisations Using Swarm
 
 - [Co-op Cloud](https://coopcloud.tech)
+- [NeuroForge](https://neuroforge.de)
+
+## Related Awesome Lists
+
+While this list is focused on Docker Swarm resources, general resources such as ones for Docker or Docker Compose can be helpful. The following keeps track of related awesome lists focused on this.
+
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - A list of awesome Docker tools.
+- [awesome-compose](https://github.com/docker/awesome-compose) - A list of awesome Docker Compose tools.
 
 ## RIP
 
