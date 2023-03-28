@@ -110,6 +110,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Swarm vs. Compose for Production](https://github.com/BretFisher/ama/discussions/146) - Only one host for a production environment. What to use: docker-compose or single node swarm?
 - [Cheat Sheet on Docker and Swarm 2022](https://cheatography.com/boulard/cheat-sheets/docker-and-swarm-2022/)
 - [Podlike](https://github.com/rycus86/podlike) - Viktor Adam's idea on how you could link multiple containers together to emulate a Kubernetes pod.
+- [Operating Swarm](https://containers.goffinet.org/swarm/operatingswarm.html) - Useful tips and troubleshooting guides for operating Docker Swarm.
 
 ## Organisations Using Swarm
 
