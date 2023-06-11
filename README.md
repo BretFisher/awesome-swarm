@@ -76,6 +76,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) - A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
 - [GlusterFS](https://www.gluster.org/) - GlusterFS is a scale-out network-attached storage file system.
 - [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform.
+- [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs).
 - [Portworx](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/) - Portworx is a container-native storage solution. It [supports Swarm installs](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/). Free for up to three nodes.
 - [NetApp Trident](https://github.com/NetApp/trident) - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804).
 - [Hetzner Cloud Docker Volume Plugin](https://github.com/costela/docker-volume-hetzner) - Unofficial volume driver for [Hetzner Cloud](https://www.hetzner.com/cloud) by [@costela](https://github.com/costela).
