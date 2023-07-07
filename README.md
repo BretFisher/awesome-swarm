@@ -68,6 +68,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
 - [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
 - [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
+- [docker-swarm-proxy](https://github.com/neuroforgede/docker-swarm-proxy) - CLI plugin to that allows to exec into services. `docker exec` for Swarm.
 
 ### Volumes and Storage
 
