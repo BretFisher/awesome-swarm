@@ -89,6 +89,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Libnetwork Troubleshooting](https://github.com/moby/libnetwork/blob/master/cmd/diagnostic/README.md) - Official Doc on using network diagnostic tools.
 - [Traefik Proxy](https://github.com/traefik/traefik) - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
 - [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy based reverse proxy with automatic service discovery based on labels.
+- [rawdns](https://github.com/tianon/rawdns) - a direct, raw DNS interface to the Docker API.
 
 ### Monitoring
 
