@@ -63,6 +63,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 - [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) - By [@crazy-max](https://github.com/crazy-max). Create jobs on a time-based schedule.
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
+- [Gantry](https://github.com/shizunge/gantry) - a tool to update docker swarm services, enhanced [Shepherd](https://github.com/djmaze/shepherd).
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
