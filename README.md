@@ -58,16 +58,19 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
 - [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
+- [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
+- [Swarm Dashboard](https://github.com/mohsenasm/swarm-dashboard) - A Simple Monitoring Dashboard for Docker Swarm Cluster
 
 ### Extra Functionality
 
 - [Swarm Cronjob](https://github.com/crazy-max/swarm-cronjob) - By [@crazy-max](https://github.com/crazy-max). Create jobs on a time-based schedule.
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
+- [Gantry](https://github.com/shizunge/gantry) - a tool to update docker swarm services, enhanced [Shepherd](https://github.com/djmaze/shepherd).
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
-- [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
 - [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
 - [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
+- [docker-swarm-proxy](https://github.com/neuroforgede/docker-swarm-proxy) - CLI plugin to that allows to exec into services. `docker exec` for Swarm.
 
 ### Volumes and Storage
 
@@ -75,7 +78,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 
 - [CSI support issue tracking in 2023](https://github.com/olljanat/csi-plugins-for-docker-swarm) - A GitHub repository tracking various storage drivers PRs and issues for Swarm CSI support in Docker/Moby v23+.
 - [GlusterFS](https://www.gluster.org/) - GlusterFS is a scale-out network-attached storage file system.
-- [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform.
+- [Ceph](https://ceph.io/) - Ceph is a distributed object, block, and file storage platform. **Do you want Ceph support? [Upvote this issue](https://github.com/ceph/ceph-csi/issues/3769)**
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of S3. It has a maintained [Docker plugin](https://github.com/juicedata/docker-volume-juicefs).
 - [Portworx](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/) - Portworx is a container-native storage solution. It [supports Swarm installs](https://docs.portworx.com/install-portworx/install-with-other/docker/swarm/). Free for up to three nodes.
 - [NetApp Trident](https://github.com/NetApp/trident) - A NetApp storage driver that has been known to work with Docker Engine and Swarm in the past. CSI Swarm support [has been requested](https://github.com/NetApp/trident/issues/804).
