@@ -59,7 +59,8 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
 - [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
-- [Swarm Dashboard](https://github.com/mohsenasm/swarm-dashboard) - A Simple Monitoring Dashboard for Docker Swarm Cluster
+- [Swarm Dashboard](https://github.com/mohsenasm/swarm-dashboard) - A Simple Monitoring Dashboard for Docker Swarm Cluster.
+- [swarmgate](https://github.com/neuroforgede/swarmgate) - Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.
 
 ### Extra Functionality
 
