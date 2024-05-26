@@ -38,6 +38,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 ## Official Main Resources
 
 - [Docker Swarm Docs](https://docs.docker.com/engine/swarm/)
+- [Docker Compose V3 File Format Docs](https://github.com/docker/compose/blob/v1/docs/Compose%20file%20reference%20(legacy)/version-3.md) - Documentation for the Docker Compose V3 format that the `docker stack` command uses.
 - [Mirantis Swarm Homepage](https://www.mirantis.com/software/swarm/)
 - [MCR - Mirantis Container Runtime Homepage](https://www.mirantis.com/software/mirantis-container-runtime/) - The Mirantis dockerd variant that supports Swarm Mode.
 - [Mirantis Docs](https://docs.mirantis.com/) - Search Swarm for the various docs related to Swarm orchestration.
