@@ -57,6 +57,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 - [Portainer](https://www.portainer.io/) - A management UI that allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
 - [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
+- [Swirl](https://github.com/cuigh/swirl) - Web UI for Docker, focused on swarm cluster. 
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
 - [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
