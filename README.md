@@ -72,6 +72,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
 - [Gantry](https://github.com/shizunge/gantry) - a tool to update docker swarm services, enhanced [Shepherd](https://github.com/djmaze/shepherd).
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
+- [SwarmCD](https://github.com/m-adawi/swarm-cd) - Declarative GitOps and Continuous Deployment tool for Swarm. 
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
 - [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
 - [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
