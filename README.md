@@ -77,6 +77,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
 - [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
 - [docker-swarm-proxy](https://github.com/neuroforgede/docker-swarm-proxy) - CLI plugin to that allows to exec into services. `docker exec` for Swarm.
+- [Swarmhook](https://github.com/M4TY/swarmhook) - A simple to use service that redeploys Swarm services using webhooks.
 
 ### Volumes and Storage
 
