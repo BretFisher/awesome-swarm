@@ -100,6 +100,7 @@ Swarm previously only supported local volumes, NFS, and a limited set of Docker 
 - [Traefik Proxy](https://github.com/traefik/traefik) - A reverse proxy and load balancer that makes deploying HTTP (and more) published services easy. Swarm Mode docs [start here](https://doc.traefik.io/traefik/providers/docker/#docker-swarm-mode).
 - [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy based reverse proxy with automatic service discovery based on labels.
 - [rawdns](https://github.com/tianon/rawdns) - a direct, raw DNS interface to the Docker API.
+- [envoy-swarm-control-plane](https://github.com/nstapelbroek/envoy-swarm-control-plane) - Software that helps Envoy route internet traffic towards your microservices running on Docker Swarm.
 
 ### Monitoring
 
