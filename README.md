@@ -57,7 +57,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 - [Portainer](https://www.portainer.io/) - A management UI that allows you to control Docker hosts, Swarm clusters, and Kubernetes clusters.
 - [Swarmpit](https://swarmpit.io/) - Lightweight mobile-friendly Docker Swarm management UI.
-- [Swirl](https://github.com/cuigh/swirl) - Web UI for Docker, focused on swarm cluster. 
+- [Swirl](https://github.com/cuigh/swirl) - Web UI for Docker, focused on swarm cluster.
 - [AWS Docker Swarm Terraform Module](https://github.com/trajano/terraform-docker-swarm-aws)
 - [Swarmsible](https://github.com/neuroforgede/swarmsible) - Tooling to create and manage Docker Swarm clusters based on Ansible.
 - [Dockersamples Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A basic web GUI visualizing a Swarm cluster. More of a concept and teaching UI than a production tool.
@@ -65,6 +65,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Heckenmann Swarm Dashboard](https://github.com/heckenmann/docker-swarm-dashboard) - A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.
 - [swarmgate](https://github.com/neuroforgede/swarmgate) - Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.
 - [Spin](https://serversideup.net/open-source/spin/) - A lightweight tool that helps developers manage applications from development to production using Docker Compose, Docker Swarm, and Ansible.
+- [CapRover](https://caprover.com/) - CapRover is an extremely easy to use self hosted Platform as a Service (PaaS) that uses Docker Swarm to balancer workloads across one or more servers.
 
 ### Extra Functionality
 
@@ -72,7 +73,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Shepherd](https://github.com/djmaze/shepherd) - Automatically update services whenever their image is refreshed.
 - [Gantry](https://github.com/shizunge/gantry) - a tool to update docker swarm services, enhanced [Shepherd](https://github.com/djmaze/shepherd).
 - [Swarm Sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Swarm.
-- [SwarmCD](https://github.com/m-adawi/swarm-cd) - Declarative GitOps and Continuous Deployment tool for Swarm. 
+- [SwarmCD](https://github.com/m-adawi/swarm-cd) - Declarative GitOps and Continuous Deployment tool for Swarm.
 - [docker-stack-deploy (docker-sdp)](https://github.com/neuroforgede/docker-stack-deploy) - Automatic config/secret rotation for Docker stacks.
 - [nothelm.py](https://github.com/neuroforgede/nothelm.py) - Opinionated docker stack project tool with templating support.
 - [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Tool to wait for your docker stack deployments to finish.
