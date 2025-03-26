@@ -30,10 +30,12 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 ## Recent News and Updates
 
-- [Mirantis - What's next for Swarm](https://www.mirantis.com/blog/what-s-next-for-swarm/)
-- [Mirantis - Kubernetes vs Swarm - These companies use both](https://www.mirantis.com/blog/kubernetes-vs-swarm-these-companies-use-both)
-- [Mirantis - Committed to Swarm](https://www.mirantis.com/blog/mirantis-is-committed-to-swarm/)
-- [Mirantis - Announcing the 23.0 major release for Mirantis Container Runtime — and Moby](https://www.mirantis.com/blog/announcing-the-23-0-major-release-for-mirantis-container-runtimeand-moby)
+- 2024-12 - [Mirantis - Introducing Mirantis Container Runtime 25](https://www.mirantis.com/blog/introducing-mirantis-container-runtime-25-enhanced-observability-extensibility-performance/)
+- 2024-03 - [Mirantis - Swarm is here to stay — and will keep getting better in security and ease of operations](https://www.mirantis.com/blog/swarm-is-here-to-stay-and-keeps-getting-better-in-security-and-ease-of-operations/)
+- 2023-02 - [Mirantis - Announcing the 23.0 major release for Mirantis Container Runtime — and Moby](https://www.mirantis.com/blog/announcing-the-23-0-major-release-for-mirantis-container-runtimeand-moby)
+- 2022-10 - [Mirantis - What's next for Swarm](https://www.mirantis.com/blog/what-s-next-for-swarm/)
+- 2022-10 - [Mirantis - Kubernetes vs Swarm - These companies use both](https://www.mirantis.com/blog/kubernetes-vs-swarm-these-companies-use-both)
+- 2022-04 - [Mirantis - Committed to Swarm](https://www.mirantis.com/blog/mirantis-is-committed-to-swarm/)
 
 ## Official Main Resources
 
