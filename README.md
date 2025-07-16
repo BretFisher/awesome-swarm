@@ -83,6 +83,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [docker-swarm-proxy](https://github.com/neuroforgede/docker-swarm-proxy) - CLI plugin to that allows to exec into services. `docker exec` for Swarm.
 - [Swarmhook](https://github.com/M4TY/swarmhook) - A simple to use service that redeploys Swarm services using webhooks.
 - [Swarm pilot](https://github.com/Integral-Systems/swarm-pilot) - Scale Serices up/down by CPU & Memory Usage
+- [doco-cd](https://github.com/kimdre/doco-cd) - Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.
 
 ### Volumes and Storage
 
