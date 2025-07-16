@@ -1,4 +1,4 @@
-<!--lint disable awesome-contributing awesome-git-repo-age awesome-toc awesome-list-item-->
+<!--lint disable awesome-contributing awesome-git-repo-age awesome-toc awesome-list-item double-link-->
 # Awesome Swarm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="images/awesome-swarm.png" align="right" width="250" />
