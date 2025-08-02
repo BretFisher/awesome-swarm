@@ -69,6 +69,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [swarmgate](https://github.com/neuroforgede/swarmgate) - Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.
 - [Spin](https://serversideup.net/open-source/spin/) - A lightweight tool that helps developers manage applications from development to production using Docker Compose, Docker Swarm, and Ansible.
 - [CapRover](https://caprover.com/) - CapRover is an extremely easy to use self hosted Platform as a Service (PaaS) that uses Docker Swarm to balancer workloads across one or more servers.
+- [Terraform Docker Provider](https://registry.terraform.io/providers/kreuzwerker/docker) - Infrastructure as code like stack files that supports the use of Docker services against the Docker API.
 
 ### Extra Functionality
 
