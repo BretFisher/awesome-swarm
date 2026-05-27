@@ -67,6 +67,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [MongoDB ReplicaSet Manager](https://github.com/BitWise-0x/MongoDB-ReplicaSet-Manager) - Automated deployment and management of MongoDB replica sets in Docker Swarm with intelligent failover and dynamic scaling.
 - [Mohsenasm Swarm Dashboard](https://github.com/mohsenasm/swarm-dashboard) - A Simple Monitoring Dashboard for Docker Swarm Cluster.
 - [Heckenmann Swarm Dashboard](https://github.com/heckenmann/docker-swarm-dashboard) - A Monitoring Dashboard for a Docker Swarm Cluster that gives you a bit more insights.
+- [swarmcli](https://github.com/Eldara-Tech/swarmcli) - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
 - [swarmgate](https://github.com/neuroforgede/swarmgate) - Multitenancy for Docker Swarm - Docker Socket Proxy for use with Docker Swarm to have multiple tenants on a single Swarm.
 - [Spin](https://serversideup.net/open-source/spin/) - A lightweight tool that helps developers manage applications from development to production using Docker Compose, Docker Swarm, and Ansible.
 - [CapRover](https://caprover.com/) - CapRover is an extremely easy to use self hosted Platform as a Service (PaaS) that uses Docker Swarm to balancer workloads across one or more servers.
