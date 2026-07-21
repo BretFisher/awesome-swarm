@@ -40,6 +40,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 ## Official Main Resources
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
 - [Docker Swarm Docs](https://docs.docker.com/engine/swarm/)
 - [Docker Compose V3 File Format Docs](https://github.com/docker/compose/blob/v1/docs/Compose%20file%20reference%20(legacy)/version-3.md) - Documentation for the Docker Compose V3 format that the `docker stack` command uses.
 - [Mirantis Swarm Homepage](https://www.mirantis.com/software/swarm/)
