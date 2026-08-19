@@ -30,6 +30,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 
 ## Recent News and Updates
 
+- 2025-08 - [Portainer - Technical Advisory: Docker Swarm](https://www.portainer.io/blog/technical-advisory-docker-swarm) - Upgrade guidance for Docker Engine API v49 compatibility changes affecting Swarm volumes, iptables, overlay networks, VXLAN, and related API clients/plugins.
 - 2025-07 - [Mirantis - Mirantis guarantees long-term support for Swarm until 2030](https://www.mirantis.com/blog/mirantis-guarantees-long-term-support-for-swarm/)
 - 2024-12 - [Mirantis - Introducing Mirantis Container Runtime 25](https://www.mirantis.com/blog/introducing-mirantis-container-runtime-25-enhanced-observability-extensibility-performance/)
 - 2024-03 - [Mirantis - Swarm is here to stay — and will keep getting better in security and ease of operations](https://www.mirantis.com/blog/swarm-is-here-to-stay-and-keeps-getting-better-in-security-and-ease-of-operations/)
