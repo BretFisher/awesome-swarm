@@ -73,6 +73,7 @@ This Awesome List is maintained by [@BretFisher](https://github.com/BretFisher) 
 - [Spin](https://serversideup.net/open-source/spin/) - A lightweight tool that helps developers manage applications from development to production using Docker Compose, Docker Swarm, and Ansible.
 - [CapRover](https://caprover.com/) - CapRover is an extremely easy to use self hosted Platform as a Service (PaaS) that uses Docker Swarm to balancer workloads across one or more servers.
 - [Terraform Docker Provider](https://registry.terraform.io/providers/kreuzwerker/docker) - Infrastructure as code like stack files that supports the use of Docker services against the Docker API.
+- [Opsifier](https://github.com/voidagency/opsifier) - Open-source control panel that deploys apps and databases as Swarm services from a web interface, with Traefik for domains and HTTPS. Single node for now, and in early development.
 
 ### Extra Functionality
 
